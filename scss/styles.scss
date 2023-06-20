@@ -10,10 +10,26 @@ body {
     display: grid;
 }
 
-.grid__item {
+.grid__item { // estas lienas se agregan para poder visualizar el template
     font-size:  2rem;
     color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.header {
+    background-color: crimson; 
+}
+
+.main {
+    background-color: darkorange;
+}
+
+.sidebar {
+    background-color: steelblue;
+}
+
+.footer {
+    background-color: purple;
 }

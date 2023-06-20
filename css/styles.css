@@ -16,4 +16,20 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.header {
+  background-color: crimson;
+}
+
+.main {
+  background-color: darkorange;
+}
+
+.sidebar {
+  background-color: steelblue;
+}
+
+.footer {
+  background-color: purple;
 }/*# sourceMappingURL=styles.css.map */
