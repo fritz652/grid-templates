@@ -1,1 +1,9 @@
-/*# sourceMappingURL=styles.css.map */
+body {
+  font: "Arial";
+}
+
+.grid {
+  height: 100vh;
+  outline: 3px;
+  margin: 10px auto;
+}/*# sourceMappingURL=styles.css.map */
